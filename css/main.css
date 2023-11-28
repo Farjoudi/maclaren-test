@@ -368,3 +368,34 @@ body {
   .customer-quote{
     max-width: 90%;
   }
+
+  /* customer */
+  .customer-card-body{
+    margin-top: -4rem !important;
+    color: var(--mainGrey);
+  }
+  .customer-img{
+    border: 0.4rem solid var(--mainWhite);
+  }
+  .customer-name{
+    color: var(--mainOrange);
+    margin: 0.4rem;
+  }
+  .customer-icon{
+    font-size: 2rem;
+    color: var(--mainGrey);
+  }
+  .customer-quote{
+    max-width: 90%;
+  }
+
+  /* footer */
+  .footer{
+    background: var(--mainBlack);
+  }
+  .footer-icon{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: var(--mainYellow);
+    transition: all 1s ease-in-out;
+  }
